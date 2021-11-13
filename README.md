@@ -8,6 +8,9 @@ reverse shell by victim's ip address and port.
 Hope ripshell will be helpfull for getting the shell 
 of the machine in Tryhackme & Hackthebox
 
+ripshell can be accessed fron any driectory from your terminal by 
+typing ripshell
+
 ---------------------------------------------------------------------------
 USAGE: $ ripshell [Command]
 
