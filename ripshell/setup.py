@@ -8,6 +8,7 @@ setup(
         'click'
         'rich'
         'pyfiglet'
+        'termcolor'
     
     ],
     entry_points='''
