@@ -1,0 +1,7 @@
+setup.py
+ripshell.egg-info/PKG-INFO
+ripshell.egg-info/SOURCES.txt
+ripshell.egg-info/dependency_links.txt
+ripshell.egg-info/entry_points.txt
+ripshell.egg-info/requires.txt
+ripshell.egg-info/top_level.txt
