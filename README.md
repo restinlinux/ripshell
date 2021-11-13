@@ -1,4 +1,4 @@
-# ripshell
+# ripshell 💀
 ripshell is a reverse shell generator made by python !
 
 
