@@ -9,7 +9,7 @@ Hope ripshell will be helpfull for getting the shell
 of the machine in Tryhackme & Hackthebox
 
 ---------------------------------------------------------------------------
-USAGE: $ ripshell Command
+USAGE: $ ripshell [Command]
 
 
     example:  $ripshell bash196
@@ -27,8 +27,11 @@ REQUIREMENTS:
           2. Rich         -----     $ pip install rich
           3. Pyfiglet     -----     $ pip install pyfiglet
           4. termcolor    -----     $ pip install termcolor   
-          
-        
+ 
+  NOTE: Make sure your using the lastest version of the python !!
+  
+-----------------------------------------------------------------------------
+ HAPPY HACKING !
 
 
 
