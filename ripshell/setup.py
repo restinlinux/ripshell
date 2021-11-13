@@ -6,9 +6,9 @@ setup(
     packages=find_packages(),
     install_requires=[
         'click'
-        'rich'
-        'pyfiglet'
-        'termcolor'
+        
+     
+      
     
     ],
     entry_points='''
